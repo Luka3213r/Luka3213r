@@ -1,5 +1,5 @@
 <h1 align="center">Luis Kanxoc</h1>
-<h3 align="center">Systems Engineering Student & Full-Stack / Backend Developer | Yucatán, México</h3>
+<h3 align="center">Systems Engineering Student &  Backend Developer | Yucatán, México</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 ---
 
 ### Hola, soy Luis 👋
-Estudiante de Ingeniería en Sistemas Computacionales en el **Instituto Tecnológico Superior de Valladolid (ITSV)**. Me apasiona el desarrollo de aplicaciones web robustas, la gestión de bases de datos y la optimización de procesos mediante tecnología.
+Estudiante de Ingeniería en Sistemas Computacionales en el **Instituto Tecnológico Superior de Valladolid (ITSV)**. Me apasiona el desarrollo de aplicaciones web, la gestión de bases de datos y la optimización de procesos mediante tecnología.
 
 ---
 
