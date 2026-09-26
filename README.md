@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola, soy Luis Kanxoc 👋
 
-<!--
-**Luka3213r/Luka3213r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico Superior de Valladolid (ITSV). Me apasiona el desarrollo de software, la creación de aplicaciones web robustas y la optimización de procesos de negocio.
 
-Here are some ideas to get you started:
+### 🚀 ¿En qué estoy trabajando?
+- 💻 Desarrollo de sistemas web y de gestión de inventarios utilizando **PHP**, **Laravel**, y bases de datos relacionales.
+- 📊 Creación de modelos de procesos (BPMN) y soluciones de Business Intelligence.
+- ⚙️ Integración de APIs REST y servicios en la nube.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes y Frameworks:** PHP, Laravel, SQL, JavaScript.
+- **Bases de Datos:** MySQL, SQLite.
+- **Herramientas y Entornos:** Git, GitHub, Laragon, WampServer, Postman.
+- **Modelado y BI:** Bizagi Modeler, Lucidchart, Metabase, Looker Studio.
+
+### 📫 ¿Cómo contactarme?
+- Puedes explorar mis repositorios en este perfil para ver parte del software y proyectos que he construido.
