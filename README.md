@@ -31,17 +31,3 @@ Estudiante de Ingeniería en Sistemas Computacionales en el **Instituto Tecnoló
 | **Salones Terraza Alborada** | Plataforma web para la gestión de reservas de eventos. | PHP, Laravel, MySQL |
 
 ---
-
-### 📊 Mis Estadísticas de GitHub
-
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luka3213r&show_icons=true&theme=radical&border_radius=6)
-
----
-
-### 🐍 Animación de Contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luka3213r/Luka3213r/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luka3213r/Luka3213r/output/snake-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luka3213r/Luka3213r/output/snake-snake.svg">
-</picture>
